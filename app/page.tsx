@@ -56,8 +56,8 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation
-          </a>
+            Documentation 
+          </a><h1>HOLSSSSSSAA S</h1>
         </div>
       </main>
     </div>
